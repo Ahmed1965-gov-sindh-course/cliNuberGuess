@@ -1,2 +1,3 @@
-# cliNuberGuess
-Ramzan live coding 22-3-24
+# NUMBER GUESS GAME - CLI 
+## Live Coding  on  22-3-2024
+## NPX Command: npx uf3sindh-clinumberguess 
